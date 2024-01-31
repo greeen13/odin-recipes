@@ -1,0 +1,1 @@
+This is an example of the Recipes exercise of The Odin Project course.
